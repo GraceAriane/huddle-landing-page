@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [huddle landing page](https://your-live-site-url.com)
+- Live Site URL: [huddle landing page](https://huddle-landing-page-opal.vercel.app/)
 
 ## My process
 
